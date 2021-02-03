@@ -1,0 +1,14 @@
+.ui {
+    position: absolute;
+    background-color: transparent;
+
+}
+
+button{
+margin: 20px;
+}
+
+body {
+    overflow: hidden;
+    margin: 0;
+  }
